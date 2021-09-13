@@ -1,7 +1,6 @@
-# media_analytics (early draft version)
+# media_analytics (preview version)
 A set of methods to analyze social media content (Twitter, Youtube, VKontakte, Yandex.news) which I used in my PhD work.
-The methods are isolated as separate R files. Some of them require user/password to be entered for social networks. Some of the require some form of manual mods before results can be obtained - provided as draft for demo purposes.
-Twitter module requires external python snscrape which can be installed with pip.
+The methods are isolated as separate R files which are not yet cleaned to be uploaded. Some of them require user/password to be entered for social networks. Some of the require some form of manual mods before results can be obtained.
 
 Here is example of analytics of youtube channels. We can compare on xray chart how often guests of show talk about Chernyshevsky and Dostoevsky:
 
